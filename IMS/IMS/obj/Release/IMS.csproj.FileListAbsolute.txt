@@ -1,0 +1,5 @@
+C:\Users\73194\Documents\Visual Studio 2008\Projects\IMS\IMS\bin\Release\IMS.exe
+C:\Users\73194\Documents\Visual Studio 2008\Projects\IMS\IMS\bin\Release\IMS.pdb
+C:\Users\73194\Documents\Visual Studio 2008\Projects\IMS\IMS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\73194\Documents\Visual Studio 2008\Projects\IMS\IMS\obj\Release\IMS.exe
+C:\Users\73194\Documents\Visual Studio 2008\Projects\IMS\IMS\obj\Release\IMS.pdb

@@ -1,0 +1,10 @@
+C:\Users\73194\AppData\Local\Temporary Projects\IMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\73194\AppData\Local\Temporary Projects\IMS\bin\Debug\IMS.exe
+C:\Users\73194\AppData\Local\Temporary Projects\IMS\bin\Debug\IMS.pdb
+C:\Users\73194\AppData\Local\Temporary Projects\IMS\obj\Debug\IMS.exe
+C:\Users\73194\AppData\Local\Temporary Projects\IMS\obj\Debug\IMS.pdb
+C:\Users\73194\Documents\Visual Studio 2008\Projects\IMS\IMS\obj\Debug\IMS.exe
+C:\Users\73194\Documents\Visual Studio 2008\Projects\IMS\IMS\obj\Debug\IMS.pdb
+C:\Users\73194\Documents\Visual Studio 2008\Projects\IMS\IMS\bin\Debug\IMS.exe
+C:\Users\73194\Documents\Visual Studio 2008\Projects\IMS\IMS\bin\Debug\IMS.pdb
+C:\Users\73194\Documents\Visual Studio 2008\Projects\IMS\IMS\obj\Debug\ResolveAssemblyReference.cache
